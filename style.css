@@ -63,6 +63,10 @@ btn-primary {
 .padding {
 	padding-bottom: 2rem;
 }
+.paddingAll {
+	padding: 3rem;
+	margin-left: 2rem;
+}
 .welcome {
 	width: 75%;
 	margin: 0 auto;
@@ -100,9 +104,7 @@ btn-primary {
 	 max-width: 408px;
 
 }
-#cardpads {
-	margin-left: 3rem;
-}
+
 
  .social a {
 	 font-size: 4.5em;
